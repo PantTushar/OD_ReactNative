@@ -1,0 +1,3 @@
+rootProject.name = 'OD_ReactNative'
+
+include ':app'
